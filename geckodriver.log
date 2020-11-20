@@ -1,134 +1,86 @@
-1605782710415	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.dQEzzxzIKj6W"
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1605837185303	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_m[GFX1-]: Could not creatJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1605782720542	Marionette	INFO	Listening on port 60161
-1605782720691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605837201226	Marionette	INFO	Listening on port 51136
+1605837201803	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-1605782824484	Marionette	INFO	Stopped listening on port 60161
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Child 8912, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-[Parent 6852, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-[Parent 6852, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
-1605782839823	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.7XFbs2yTsUaI"
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-1605782847409	Marionette	INFO	Listening on port 60398
-1605782847931	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-[GFX1-]: Could not create swap chain: 0x887a0022
-[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
-[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
-1605782945635	Marionette	INFO	Stopped listening on port 60398
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-[Parent 10640, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
-[Parent 10640, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1605782955613	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.TX0FjtVA1vSx"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: ChaJavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+[GFX1-]: Could not create swap chain: 0x887a0022
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605837303229	Marionette	INFO	Stopped listening on port 51135
+[Parent 8920, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605837311799	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.ak3c47r2uTxQ"
 [GFX1-]: Could not create swap chain: 0x887a0022
 [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
@@ -143,14 +95,38 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 [GFX1-]: Could not create swap chain: 0x887a0022
 [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
-1605782961831	Marionette	INFO	Listening on port 60597
-1605782962003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605837319347	Marionette	INFO	Listening on port 51466
+1605837319706	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605837376273	Marionette	INFO	Stopped listening on port 51466
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605837384315	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.BWbR6sg6JLsn"
+[GFX1-]: Could not create swap chain: 0x887a0022
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: Could not create swap chain: 0x887a0022
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: Could not create swap chain: 0x887a0022
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Could not create swap chain: 0x887a0022
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+1605837390828	Marionette	INFO	Listening on port 51565
+1605837391186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/layer/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.57.140.190/themes/manage/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
 JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
 JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
@@ -159,3 +135,37 @@ JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line
 [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
 JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+JavaScript error: http://123.57.140.190/themes/manage/js/common-scripts.js, line 19: TypeError: $.slidebars is not a function
+1605837489914	Marionette	INFO	Stopped listening on port 51565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8424, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
